@@ -1,3 +1,5 @@
 ﻿run_at,mode,schools_done,schools_total,rows_found,rows_total,error,requests
 2026-11-12T23:50:00,list,85,85,300,270,,301
 2026-11-13T00:08:34,details,,,270,270,,273
+2026-11-15T23:14:17,list,85,85,300,270,,301
+2026-11-15T23:14:28,details,,,0,270,,3
